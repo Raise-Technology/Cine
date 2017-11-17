@@ -1,0 +1,6 @@
+---------CINEMAS TEPIC---------
+Funcion: Cars 3 5:00 pm
+Numero de Boletos: 8
+Precio Boleto: 100.0
+Combo: Combo nachos $200
+Total a pagar: 1000.0
